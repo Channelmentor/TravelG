@@ -3,3 +3,5 @@ class First {
     System.out.println("Let's do something using Java technology.");
   }
 }
+
+//writing simple java program
